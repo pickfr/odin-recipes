@@ -1,0 +1,1 @@
+Create a pure HTML site to refresh my HTML skills
